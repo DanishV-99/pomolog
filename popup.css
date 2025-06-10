@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 10px;
+    width: 300px
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.header .logo {
+    width: 60px;
+    height: 60px;
+}
